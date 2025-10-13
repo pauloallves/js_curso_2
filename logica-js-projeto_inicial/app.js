@@ -1,9 +1,8 @@
 function exibirTexto(){
    console.log('Olá mundo!');
 }
-//--------------------------------------
 exibirTexto();
-
+//--------------------------------------
 function pegarNome(nome){
     console.log(`Olá, ${nome}`);
 }
